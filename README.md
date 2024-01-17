@@ -1,0 +1,2 @@
+# strapi
+Simple strapi cms
